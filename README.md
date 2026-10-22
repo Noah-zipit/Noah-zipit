@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer+%26;AI+Integration+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm a passionate Full Stack Developer who loves building innovative applications. I enjoy tackling complex problems and turning them into elegant solutions.
+Hey there! I'm a Full-Stack Developer & AI Integration Engineer based in Gujranwala, Pakistan, working remotely worldwide. I have 6+ years of experience shipping real products, from AI automation platforms to live streaming and manga readers used by 300+ readers.
 
-- 🔭 I'm currently working on WhatsApp bot development
-- 🌱 I'm currently learning AI and Machine Learning
+- 🔭 I'm currently a Contract AI Engineer at Drytis and Founder of Elevate Mavens, my AI automation agency
+- 🌱 I'm currently building Gavel, an adversarial AI debate system entered in the Qloo Agentic Hackathon
 - 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about JavaScript, Node.js, and React
+- 💬 Ask me about JavaScript, TypeScript, Python, React, Next.js, and AI integration
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ Tech Stack
@@ -29,6 +29,7 @@ Hey there! I'm a passionate Full Stack Developer who loves building innovative a
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
   
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,6 +43,7 @@ Hey there! I'm a passionate Full Stack Developer who loves building innovative a
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div>
 
@@ -59,11 +61,11 @@ Hey there! I'm a passionate Full Stack Developer who loves building innovative a
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Noah-zipit/atlas-md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=atlas-md&theme=radical" />
+  <a href="https://github.com/Noah-zipit/gavel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=gavel&theme=radical" />
   </a>
-  <a href="https://github.com/Noah-zipit/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=project-name&theme=radical" />
+  <a href="https://github.com/Noah-zipit/airwave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=airwave&theme=radical" />
   </a>
 </div>
 
@@ -76,17 +78,17 @@ Hey there! I'm a passionate Full Stack Developer who loves building innovative a
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ashar-qaisar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/Noahextt" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:noahext994@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dev.to/YOUR_DEV_TO" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <a href="https://asharxyz.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
