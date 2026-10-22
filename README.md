@@ -11,7 +11,7 @@
 Hey there! I'm a Full-Stack Developer & AI Integration Engineer based in Gujranwala, Pakistan, working remotely worldwide. I have 6+ years of experience shipping real products, from AI automation platforms to live streaming and manga readers used by 300+ readers.
 
 - 🔭 I'm currently a Contract AI Engineer at Drytis and Founder of Elevate Mavens, my AI automation agency
-- 🌱 I'm currently building Gavel, an adversarial AI debate system entered in the Qloo Agentic Hackathon
+- 🌱 I'm currently building Gavel, an adversarial AI debate system where advocate agents argue options and a judge agent delivers a verdict with evidence
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about JavaScript, TypeScript, Python, React, Next.js, and AI integration
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
