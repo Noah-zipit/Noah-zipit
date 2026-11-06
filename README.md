@@ -50,29 +50,29 @@ Hey there! I'm a Full-Stack Developer & AI Integration Engineer based in Gujranw
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noah-zipit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://noah-readme-stats.vercel.app/api?username=Noah-zipit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noah-zipit&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-zipit&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://noah-readme-stats.vercel.app/api/top-langs/?username=Noah-zipit&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Noah-zipit/gavel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=gavel&theme=radical" />
+    <img src="https://noah-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=gavel&theme=radical" />
   </a>
   <a href="https://github.com/Noah-zipit/airwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=airwave&theme=radical" />
+    <img src="https://noah-readme-stats.vercel.app/api/pin/?username=Noah-zipit&repo=airwave&theme=radical" />
   </a>
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noah-zipit&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://noah-profile-trophy.vercel.app/?username=Noah-zipit&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📫 Connect With Me
@@ -92,9 +92,9 @@ Hey there! I'm a Full-Stack Developer & AI Integration Engineer based in Gujranw
 ## 👀 Visitor Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Noah-zipit/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Noah-zipit" alt="Visitor Count" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Noah-zipit/Noah-zipit/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Noah-zipit/Noah-zipit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
